@@ -1,2 +1,0 @@
-texto = 'clara'
-print(texto)
