@@ -1,0 +1,2 @@
+texto = 'clara'
+print(texto)
